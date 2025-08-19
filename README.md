@@ -1,2 +1,1 @@
-# vrit_sales_dashboard
-hello.....
+power bi related project.
